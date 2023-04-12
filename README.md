@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**ronenboxer/ronenboxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! I'm Ronen Boxer
 
-Here are some ideas to get you started:
+A passionate and dedicated full stack developer from Israel. I'm known as a hard worker, highly motivated, quick learner and perfectionnist. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My work
+- 👨‍💻 I'm currently working on a wix clone project
+
+- 🧠 I'm currently learning Next.Js
+
+- ⚡ I'm looking for my first opportunity as a developer to make great things
+
+- 💬 Feel free to ask me anything about full stack development, Vue and React
+
+
+
+
+
+## About Me
+- I'm a maths and physics enthusiast and I get along with numbers and complex calculations and formulas.
+- I'm a professionally trained musician. I've attended Rimons School of music, majoring in composing, arrangment and singing. I am mostly self taught classical pianist and I keep on learning every day.
+- I have been interested in computer science and coding since I was 12, taking part in technical courses for adults, as well as coding lessons in C.
+
+## Technologies
+- Front end: 
+
