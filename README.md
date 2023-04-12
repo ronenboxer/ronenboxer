@@ -5,6 +5,7 @@ A passionate and dedicated full stack developer from Israel. I'm known as a hard
 
 
 ## My work
+- 🔭 <a href="https://ronenboxer.github.io/portfolio" target="_blank">View my work</a>
 - 👨‍💻 I'm currently working on a wix clone project
 
 - 🧠 I'm currently learning Next.Js
