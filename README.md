@@ -21,8 +21,9 @@ A passionate and dedicated full stack developer from Israel. I'm known as a hard
 - I have been interested in computer science and coding since I was 12, taking part in technical courses for adults, as well as coding lessons in C.
 
 ## Technologies
--Front end:
-!(https://user-images.githubusercontent.com/114055513/231484125-1bb32b72-e32b-4e08-b104-f48149c818ed.svg)|
--Back end:
--Ui/Ux:
--Utilities:
+- Front end:
+
+- Back end:
+- Ui/Ux:
+- Utilities:
+![js](https://user-images.githubusercontent.com/114055513/231485008-cd433cb4-7b4d-4ae7-baf4-fa7fc1fbc967.svg)
