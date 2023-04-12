@@ -12,7 +12,7 @@ A passionate and dedicated full stack developer from Israel. I'm known as a hard
 
 - ⚡ I'm looking for my first opportunity as a developer to make great things
 
-- 💬 Feel free to ask me anything about full stack development, Vue and React
+- 💬 Feel free to ask me anything about full stack development, Vue, React and Node.Js
 
 
 
